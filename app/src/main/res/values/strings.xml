@@ -1,0 +1,22 @@
+<!--/*-->
+<!--    * Assignment 3-->
+<!--    * strings.xml-->
+<!--    * Maggie Wu / wumag@oregonstate.edu-->
+<!--    * CS 492 / Oregon State University-->
+<!--    */-->
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="myname">Maggie Wu</string>
+    <string name="title161">Intro to CS I</string>
+    <string name="title162">Intro to CS II</string>
+    <string name="title225">Discrete Structures</string>
+    <string name="title261">Data Structures</string>
+    <string name="title271">Computer Architecture</string>
+    <string name="title290">Web Development</string>
+    <string name="title325">Analysis of Algorithms</string>
+    <string name="title340">Intro to Databases</string>
+    <string name="title344">Operating Systems I</string>
+    <string name="title361">Software Engineering I</string>
+    <string name="title362">Software Engineering II</string>
+    <string name="title467">Online Capstone Project</string>
+</resources>
