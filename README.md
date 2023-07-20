@@ -1,20 +1,9 @@
-Affirmations App - Starter Code
+Assignment 3: Building a scrollable list 
 ================================
-
-Starter code for the Android Basics with Compose: Affirmations app.
-
 
 Introduction
 ------------
-The Affirmations app contains a scrollable list of 10 cards.
-
-
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
-
+A single-screen app utilizing Jetpack Compose and Kotlin that displays a scrollable list of the required courses for the CS post-bacc degree.
 
 Getting Started
 ---------------
@@ -22,5 +11,3 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
-
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
